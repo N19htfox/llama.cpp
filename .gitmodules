@@ -1,3 +1,9 @@
 [submodule "kompute"]
 	path = ggml/src/ggml-kompute/kompute
 	url = https://github.com/nomic-ai/kompute.git
+[submodule "external/llama-2-7b"]
+	path = external/llama-2-7b
+	url = https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF
+[submodule "external/llama-2-70b"]
+	path = external/llama-2-70b
+	url = https://huggingface.co/TheBloke/Llama-2-70B-Chat-GGUF
